@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "name": "Antwerp",
+        "description": "One of the biggest cities in Flanders.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/OLV-Kathedraal.jpg",
+        "rating": 5
+    },
+    {
+        "id": 1,    
+        "name": "Poznań",
+        "description": "The biggest city in Greater Poland.",
+        "image": "https://www.poznan.pl/mim/oswiata/pictures/poznan-jednym-z-najlepszych-celow-podrozy-w-europie,pic1,1016,128681,221029,show2.jpg",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "name": "Barlinek",
+        "description": "A nice and cozy town in western Poland.",
+        "image": "https://www.globtroter.pl/zdjecia/polska/b291232_polska_zachodniopomorskie_barlinek.jpg",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "Gorzów Wielkopolski",
+        "description": "One of the ugliest cities in Poland.",
+        "image": "https://www.polska.travel/images/pl-PL/glowne-miasta/gorzow-wielkopolski/gorzow_panorama_gorzowa_i_warty_2_1170.jpg",
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "name": "Kraków",
+        "description": "Historically the second capital of Poland.",
+        "image": "https://www.polska.travel/images/pl-PL/glowne-miasta/krakow/krakow_rynek_2_1170.jpg",
+        "rating": 5
+    }
+]
